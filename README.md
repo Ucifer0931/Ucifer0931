@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Ucifer0931
+- 👀 I’m interested in Compiler design espically on JavaCC
+- 🌱 I’m currently learning Swissql
+- 📫 How to reach me ..... Cuurently not free
